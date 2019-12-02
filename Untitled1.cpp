@@ -1,7 +1,6 @@
 #include <iostream>
 #include <math.h>
 
-
 using namespace std;
 
 int main()
@@ -22,7 +21,9 @@ int main()
 	if (maxX==0 && maxY== 0 )
 							cout <<"NO"<< endl;
 	else	
-		cout<<(maxX*maxY)/2<<endl;	
+		cout<<(maxX*maxY)/2<<endl;
+	
+	cout << "Hello, World!" << endl;
 
 }
 
