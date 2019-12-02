@@ -22,8 +22,7 @@ int main()
 							cout <<"NO"<< endl;
 	else	
 		cout<<(maxX*maxY)/2<<endl;
-	
-	cout << "Hello, World!" << endl;
+Фролова а евнаьгеневжаннЭББcout
 
 }
 
